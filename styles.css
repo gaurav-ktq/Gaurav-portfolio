@@ -350,7 +350,7 @@ span {
 
 .portfolio-container {
     display: grid;
-    grid-template-columns: repeat(4, 2fr);
+    grid-template-columns: repeat(4, 1fr);
     align-items: center;
     gap: 2.5rem;
 }
@@ -628,5 +628,6 @@ span {
 
 
 }
+
 
 
